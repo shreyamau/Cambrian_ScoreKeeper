@@ -1,11 +1,11 @@
 <resources>
-
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-    </style>
-
+    <string name="app_name">ScoreKeeperSolution</string>
+    <string name="title_string">ScoreKeeper</string>
+    <string name="teamA_title_string">Team A</string>
+    <string name="teamB_title_string">Team B</string>
+    <string name="increase_string">+</string>
+    <string name="decrease_string">-</string>
+    <string name="radio1">1pt</string>
+    <string name="radio2">2pt</string>
+    <string name="radio3">3pt</string>
 </resources>
